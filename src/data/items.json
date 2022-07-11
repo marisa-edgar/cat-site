@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Bat",
+    "price": 9.99,
+    "imgUrl": "/imgs/bat-cat.png"
+  },
+  {
+    "id": 2,
+    "name": "Aloha",
+    "price": 9.99,
+    "imgUrl": "/imgs/hawaii-cat.png"
+  },
+  {
+    "id": 3,
+    "name": "Anime",
+    "price": 9.99,
+    "imgUrl": "/imgs/anime-cat.png"
+  },
+  {
+    "id": 4,
+    "name": "Cowboy",
+    "price": 9.99,
+    "imgUrl": "/imgs/cowboy-cat.png"
+  },
+  {
+    "id": 5,
+    "name": "Fancy",
+    "price": 9.99,
+    "imgUrl": "/imgs/fancy-cat.png"
+  },
+  {
+    "id": 6,
+    "name": "Lion",
+    "price": 9.99,
+    "imgUrl": "/imgs/lion-cat.png"
+  },
+  {
+    "id": 7,
+    "name": "Potter",
+    "price": 9.99,
+    "imgUrl": "/imgs/potter-cat.png"
+  },
+  {
+    "id": 8,
+    "name": "Wizard",
+    "price": 9.99,
+    "imgUrl": "/imgs/wizard-cat.png"
+  },
+  {
+    "id": 9,
+    "name": "Spider",
+    "price": 9.99,
+    "imgUrl": "/imgs/spider-cat.png"
+  }
+]
